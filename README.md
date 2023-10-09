@@ -1,5 +1,6 @@
 # Phonebook Programs (C Procedural vs Java Object-Oriented)
-These are a phonebook programs where you can store numbers, delete and display all contacts. There is both a Procedural and Object Oriented version of the program. 
+These are a phonebook programs where you can store numbers, delete and display all contacts. There is both a Procedural and Object Oriented version of the program.
+This project demonstrates a binary tree data structure and how it can be used to quickly search for relevant information.
 
 
 # Menu Options
